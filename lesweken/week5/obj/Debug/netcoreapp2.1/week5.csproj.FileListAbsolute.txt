@@ -1,0 +1,11 @@
+C:\Users\pauli\Code\gdmgent-1819-csse1\lesweken\week5\bin\Debug\netcoreapp2.1\week5.deps.json
+C:\Users\pauli\Code\gdmgent-1819-csse1\lesweken\week5\bin\Debug\netcoreapp2.1\week5.runtimeconfig.json
+C:\Users\pauli\Code\gdmgent-1819-csse1\lesweken\week5\bin\Debug\netcoreapp2.1\week5.runtimeconfig.dev.json
+C:\Users\pauli\Code\gdmgent-1819-csse1\lesweken\week5\bin\Debug\netcoreapp2.1\week5.dll
+C:\Users\pauli\Code\gdmgent-1819-csse1\lesweken\week5\bin\Debug\netcoreapp2.1\week5.pdb
+C:\Users\pauli\Code\gdmgent-1819-csse1\lesweken\week5\obj\Debug\netcoreapp2.1\week5.csprojAssemblyReference.cache
+C:\Users\pauli\Code\gdmgent-1819-csse1\lesweken\week5\obj\Debug\netcoreapp2.1\week5.csproj.CoreCompileInputs.cache
+C:\Users\pauli\Code\gdmgent-1819-csse1\lesweken\week5\obj\Debug\netcoreapp2.1\week5.AssemblyInfoInputs.cache
+C:\Users\pauli\Code\gdmgent-1819-csse1\lesweken\week5\obj\Debug\netcoreapp2.1\week5.AssemblyInfo.cs
+C:\Users\pauli\Code\gdmgent-1819-csse1\lesweken\week5\obj\Debug\netcoreapp2.1\week5.dll
+C:\Users\pauli\Code\gdmgent-1819-csse1\lesweken\week5\obj\Debug\netcoreapp2.1\week5.pdb

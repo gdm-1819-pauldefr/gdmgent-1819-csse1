@@ -1,0 +1,11 @@
+C:\Users\pauli\Code\gdmgent-1819-csse1\opdrachten\opdracht2\fibonacci\bin\Debug\netcoreapp2.1\fibonacci.deps.json
+C:\Users\pauli\Code\gdmgent-1819-csse1\opdrachten\opdracht2\fibonacci\bin\Debug\netcoreapp2.1\fibonacci.runtimeconfig.json
+C:\Users\pauli\Code\gdmgent-1819-csse1\opdrachten\opdracht2\fibonacci\bin\Debug\netcoreapp2.1\fibonacci.runtimeconfig.dev.json
+C:\Users\pauli\Code\gdmgent-1819-csse1\opdrachten\opdracht2\fibonacci\bin\Debug\netcoreapp2.1\fibonacci.dll
+C:\Users\pauli\Code\gdmgent-1819-csse1\opdrachten\opdracht2\fibonacci\bin\Debug\netcoreapp2.1\fibonacci.pdb
+C:\Users\pauli\Code\gdmgent-1819-csse1\opdrachten\opdracht2\fibonacci\obj\Debug\netcoreapp2.1\fibonacci.csprojAssemblyReference.cache
+C:\Users\pauli\Code\gdmgent-1819-csse1\opdrachten\opdracht2\fibonacci\obj\Debug\netcoreapp2.1\fibonacci.csproj.CoreCompileInputs.cache
+C:\Users\pauli\Code\gdmgent-1819-csse1\opdrachten\opdracht2\fibonacci\obj\Debug\netcoreapp2.1\fibonacci.AssemblyInfoInputs.cache
+C:\Users\pauli\Code\gdmgent-1819-csse1\opdrachten\opdracht2\fibonacci\obj\Debug\netcoreapp2.1\fibonacci.AssemblyInfo.cs
+C:\Users\pauli\Code\gdmgent-1819-csse1\opdrachten\opdracht2\fibonacci\obj\Debug\netcoreapp2.1\fibonacci.dll
+C:\Users\pauli\Code\gdmgent-1819-csse1\opdrachten\opdracht2\fibonacci\obj\Debug\netcoreapp2.1\fibonacci.pdb
