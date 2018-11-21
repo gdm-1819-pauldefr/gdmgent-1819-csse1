@@ -1,0 +1,17 @@
+Menu Item --> klasse
+    Product (object)
+        Naam string
+        type  enum  --> drinken
+                    --> eten
+        ingredienten (list of array)
+                    --> lsit string
+    Prijs(object)
+        Valuta
+        getal
+
+
+
+- Overloop alle elementen in de lijst en maak gebruik van je implementatie van de ToString() functie, om per object een weergave af te drukken via de Console.
+
+
+- Als je een sortering zou uitvoeren op de elementen van de lijst hoe zou dit dan implementeren?

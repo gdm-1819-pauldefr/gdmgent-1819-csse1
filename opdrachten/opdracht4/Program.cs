@@ -2,30 +2,45 @@
 
 namespace opdracht4
 {
-    class Program
+    class MenuItem
     {
         static void Main(string[] args)
         {
             Console.WriteLine("Hello World!");
             
         }
-        public class Menu
+        public class Product
         {
-        private string price;
-        private string product;
+        private string naam;
+        private string type;
         
-        public Menu(string priceValue, string productName)
+        public Product(string typeEnum, string productName)
         {
-            price = priceValue;
-            product = productName;
+            type = typeEnum;
+            naam = productName;
         }
         
-        // Remaining implementation of Menu class.
+        // Remaining implementation of MenuItem class.
+        }
+
+
+        public class Price
+        {
+        private string naam2;
+        private string valuta;
+        
+        public Price(string typeValuta, string productPrice)
+        {
+            valuta = typeValuta;
+            naam2 = productPrice;
+        }
+        
+        // Remaining implementation of Price class.
         }
 
    
         //Welke klasse is de subklasse? Welke de basisklasse?
-        // De subklasse is product en de basisklasse is Menu
+        // De subklasse is product en de basisklasse is MenuItem
         //Als je een sortering zou uitvoeren op de elementen van de lijst hoe zou dit dan implementeren?
     }
 }
