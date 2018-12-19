@@ -9,9 +9,9 @@ namespace startproject
         private bool alcoholAanwezig;
 
         public int BerekenKCal(){
-    return 10;
-}
+        return 10;
+         }
     }
 
-    }
+ }
 
