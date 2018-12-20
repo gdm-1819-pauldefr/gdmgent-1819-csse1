@@ -23,7 +23,7 @@ namespace deel2
                 this.afkortingCampus = this.Campus.Substring(0,3);
             }
             
-            public string ToString()
+            public string String()
             {
                 return string.Format("Campus {0} - campusnummer {1}", this.Campus, this.campusNummer);
             }

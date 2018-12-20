@@ -56,7 +56,7 @@ namespace deel2
       return input;
     }
 
-    public string ToString() {
+    public string String() {
       return "Persoon";
     }
   }

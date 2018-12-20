@@ -1,4 +1,6 @@
 namespace deel2
 {
-    public abstract class AbstractInfo
+    public abstract class AbstractInfo{
+        
+    }
 }
