@@ -1,3 +1,4 @@
+/* 
 namespace AbstractFactory
 {
     public class VormFactory
@@ -16,4 +17,4 @@ namespace AbstractFactory
         }
 
     }
-}
+}*/

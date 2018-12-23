@@ -1,3 +1,4 @@
+/* 
 using System;
 
 namespace AbstractFactory
@@ -12,3 +13,4 @@ namespace AbstractFactory
         }
     }
 
+*/
